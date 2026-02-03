@@ -16,7 +16,7 @@ on:
 
 jobs:
   build:
-    uses: Ilaiya-ORG/Github_Actions_Shared_Templates/.github/workflows/javaPipeline.yaml@v1
+    uses: Ilaiya-ORG/Github_Actions_Shared_Templates/.github/workflows/javaPipeline.yaml
       
 
 
