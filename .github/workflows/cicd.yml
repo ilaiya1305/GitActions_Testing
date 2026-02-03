@@ -14,7 +14,7 @@ on:
   pull_request:
     branches: [ "master" ]
 
-job:
+jobs:
   build:
     uses: Ilaiya-ORG/Github_Actions_Shared_Templates/.github/workflows/javaPipeline.yaml@main
     with:
